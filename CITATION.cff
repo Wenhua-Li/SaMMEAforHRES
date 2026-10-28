@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite the associated paper as well as this repository.
+authors:
+  - family-names: "Zhang"
+    given-names: "Tao"
+  - family-names: "Li"
+    given-names: "Wenhua"
+  - family-names: "Wang"
+    given-names: "Rui"
+title: "SaMMEAforHRES"
+version: 1.0.0
+date-released: "2026-10-28"
+repository-code: "https://github.com/Wenhua-Li/SaMMEAforHRES"
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Zhang"
+      given-names: "Tao"
+    - family-names: "Li"
+      given-names: "Wenhua"
+    - family-names: "Wang"
+      given-names: "Rui"
+  title: "Surrogated-assisted multimodal multi-objective optimization for hybrid renewable energy system"
+  journal: "Complex & Intelligent Systems"
+  volume: 9
+  number: 4
+  pages: "4075-4087"
+  year: 2023
+  doi: "10.1007/s40747-022-00943-y"
